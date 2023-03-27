@@ -2,7 +2,7 @@
 
 ### Concept
 Garden of Loom is a story-driven puzzle and exploration game set in a mysterious, magical garden where weaving and gardening intertwine. Players assume the role of a young apprentice weaver named Lyra, who discovers a hidden garden where the plants and creatures are made of delicate, living threads. Lyra solves weaving-based puzzles using the plants and natural materials found in the magical garden. When Lyra solves each puzzle, she creates a new garment, and a unique creature in the garden will reveal the stories and histories behind it. With each new garment she makes, Lyra explores intricate environments and unravels the secrets of the Garden of Loom. 
-</b>
+<b>
 Existing games as reference: Loom, Mystery House, What Remains of Edith Finch
 
 ### Gameplay
